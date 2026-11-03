@@ -9,6 +9,7 @@ IPTV Auto-updater
 - Output: http-iptv.m3u
 """
 
+import utils.session
 import re
 import sys
 from collections import Counter
